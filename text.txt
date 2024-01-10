@@ -1,1 +1,2 @@
 Przykładowy plik tekstowy
+My second line of the text.
